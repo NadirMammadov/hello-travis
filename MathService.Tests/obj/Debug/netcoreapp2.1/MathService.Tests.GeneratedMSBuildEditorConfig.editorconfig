@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MathService.Tests
+build_property.ProjectDir = C:\Users\nadir\Desktop\hello-travis-master\MathService.Tests\

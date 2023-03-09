@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9dDQeJQVLnfHJnwSScRdg50fSg83QzwV1zzaJQ5cnAD+59A8JiQr2SnuAQ7hkjd7hH1Jsq461tMhUdTG71Reg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nadir\\Desktop\\hello-travis-master\\MathService\\MathService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nadir\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
