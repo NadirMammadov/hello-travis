@@ -6,7 +6,7 @@ namespace MathService
     {
         public bool IsNegative(int number)
         {
-            return number<5;
+            return number<0;
         }
 
         public bool IsEven(int number)
